@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: a779606
+Build-Jdk: 16.0.2
+Class-Path: lib/californium-core-1.0.0-M1.jar lib/element-connector-1.0.
+ 0-M1.jar lib/httpclient-4.5.9.jar lib/httpcore-4.4.11.jar lib/commons-l
+ ogging-1.2.jar lib/commons-codec-1.11.jar lib/json-20210307.jar
+Main-Class: com.atos.coap
+Created-By: Maven Integration for Eclipse
+

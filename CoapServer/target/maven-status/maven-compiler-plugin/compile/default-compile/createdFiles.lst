@@ -1,0 +1,4 @@
+com\atos\coap\Server.class
+com\atos\coap\Server$PaSoSResource.class
+com\atos\coap\Server$HumidityResource.class
+com\atos\coap\Server$TemperatureResource.class
